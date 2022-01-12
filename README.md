@@ -8,9 +8,9 @@ Please refer to `project_report.pdf` for details.
 
 2 Models
 
-Multiclass Logistic Regression
-K Nearest Neighbors
-Naive Bayes
-Random Forest
-XGBoost
-Deep Learning With Pre-Trained Word Embeddings (Recommended Model)
+Multiclass Logistic Regression,
+K Nearest Neighbors,
+Naive Bayes,
+Random Forest,
+XGBoost,
+Deep Learning With Pre-Trained Word Embeddings (Recommended Model).
