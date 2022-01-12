@@ -1,6 +1,6 @@
 # Multi-Class Fit Prediction
 
-Product size recommendation and fit prediction are critical in order to improve customers’ shopping experiences and to reduce product return rates. Modeling customers’ fit feedback is challenging due to its subtle semantics, arising from the subjective evaluation of products, and imbalanced label distribution. In this project, we explored various predictive frameworks to tackle the product fit problem, which captures the semantics behind customers’ fit feedback, and employs a metric learning technique to resolve label imbalance issues.
+Product size recommendation and fit prediction are crucial for improving customer shopping experiences and reducing product returns. Modeling customers' fit feedback is challenging to its nuanced semantics, which result from subjective product evaluation and imbalanced label distribution. We explored various prediction frameworks to address the product fit problem in this project, which captures the semantics behind consumers' fit feedback and applies metrics to handle label imbalance concerns.
 
 Please refer to `project_report.pdf` for details.
 
